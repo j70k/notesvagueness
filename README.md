@@ -2,7 +2,6 @@
 
 ## Links
 - [my website](https://jrok.xyz)
-- [my status](https://status.jrok.xyz)
 - [its google](https://google.com)
 - [the secret computer link for robot](comp.md)
 
